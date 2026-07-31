@@ -1,0 +1,15 @@
+{
+  "name": "browser-tool",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Browser automation tool for Pi (named tabs + tab.* helpers, headless Chromium, no remote CDP).",
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  },
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

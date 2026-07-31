@@ -1,0 +1,20 @@
+{
+  "defaultModel": "mimo-v2.5-free",
+  "defaultProvider": "opencode",
+  "defaultThinkingLevel": "high",
+  "lastChangelogVersion": "0.82.1",
+  "packages": [
+    "npm:@narumitw/pi-goal",
+    "npm:pi-web-access",
+    "npm:pi-paster",
+    "npm:pi-tps-meter",
+    "npm:pi-mcp-adapter"
+  ],
+  "theme": "github-dark-default",
+  "images": {
+    "blockImages": false
+  },
+  "enableInstallTelemetry": false,
+  "httpIdleTimeoutMs": 0,
+  "steeringMode": "one-at-a-time"
+}
